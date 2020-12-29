@@ -1,0 +1,28 @@
+body {
+    overflow: hidden;
+}
+
+.navbar {
+    background-color: darkslategray;
+}
+
+.navbar-link {
+    margin-left: 20vmin;
+}
+
+.navbar-nav {
+    margin-right: 1rem;
+} 
+
+.card {
+    margin-left: 75px;
+}
+
+.footer,
+.footer:hover {
+    text-decoration: none;
+    color: #fff;
+    font-style: italic;
+}
+
+
